@@ -10,7 +10,7 @@ Applied time series analysis and machine learning algorithms to simulate real-wo
 - Credit risk analysis: Built a default probability prediction model with Random Forest.
 - FICO score grouping: Applied equal-frequency and decision tree binning to improve credit rating differentiation.
 
-[View Repository](https://github.com/garveyvv/JPMorgan-Chase-Co--Quantitative-Research-Job-Simulation)
+[View Repository](https://github.com/garveyvv/JPMorgan-Chase-Co.-Quantitative-Research-Job-Simulation)
 
 ---
 
@@ -28,7 +28,7 @@ Developed an LSTM model for predicting Apple’s stock price and designed three 
 - Optimized model reduced RMSE by 55% and MAPE by 82%.
 - Validated the effectiveness of multi-factor modeling, supporting future quantitative feature engineering.
 
-[View Repository](https://github.com/garveyvv/Stock-Price-Prediction-Based-on-Machine-Learning)
+[View Repository](https://github.com/garveyvv/Stock-Price-Prediction-with-Machine-Learning)
 
 ---
 
